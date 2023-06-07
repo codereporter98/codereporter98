@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codereporter98
+- 👀 I’m interested in architecture, design, innovation, social science, politics
+- 🌱 I’m currently learning frontend web development
+- 📫 How to reach me: https://de.linkedin.com/in/nico-trappmann-9739a0161/en?trk=people-guest_people_search-card
